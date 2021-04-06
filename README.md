@@ -1,7 +1,7 @@
 <h1>Salve</h1
 
 <p>🐄 U can call me Roger, even though that's not my actual name </p>
-<p>🐄 Currently working on a website to tell Júlia how mutch I love her</p>
+<p>🐄 julai is no more</p>
 <p>🐄 Learning the basics of programming</p>
 <p>🐄 Want to collaborate on anything that seems cool</p>
 <p>🐄 Not good enought to have a problem with programming yet</p>
